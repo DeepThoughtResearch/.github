@@ -1,2 +1,1 @@
-# .github
-Organization root
+# Deep Thought Research, LLC
